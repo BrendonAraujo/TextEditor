@@ -1,2 +1,3 @@
 # TextEditor
-A texteditor
+
+This is a simple text editor in console create using C#
